@@ -1,0 +1,123 @@
+*{
+    background-color: rgb(96, 150, 150);
+ 
+ }
+ 
+ .main {
+     border: 30px groove #000000d0;
+     border-radius: 50px 0px 50px 0px;
+     width: 300px;
+     margin: 0 auto;
+     height: 340px;
+     background-color: rgb(96, 150, 150);
+   }
+   
+   .result {
+     width: 97%;
+     height: 30px;
+     font-size: 25px;
+     position: relative;
+     color: white; rgb(18, 81, 92);
+     background-color:rgb(99, 141, 20);
+     margin: 10px 5px 5px 0px;
+   }
+   
+   .clearBtn {
+     width: 50px;
+     height: 40px;
+     font-weight: bold;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     margin: 10px 0px 0px 237px;
+     background-color:rgb(99, 141, 20);
+     color: white;
+     font-size: 25px;
+     border-radius: 10px;
+     text-align: center;
+   }
+   
+   .btn {
+     background-color: rgb(179, 243, 179);
+     width: 50px;
+     height: 30px;
+     margin: 10px 0px 0px 20px;
+     border-radius: 10px;
+   }
+   
+   .halfBtn0{
+ 
+     width: 50px;
+     height: 40px;
+     margin-top: 22px ;
+     margin-left: 100px;
+     border-radius: 10px;
+     color: white;
+     font-size: 25px;
+     background-color:rgb(99, 141, 20);
+     font-size: 30px;
+     font-weight: bold;
+   }
+   .halfBtn1 {
+     font-size: 25px;
+     width: 50px;
+     height: 40px;
+     position: absolute;
+     margin-top: 22px;
+     margin-left: 20px;
+     border-radius: 10px;
+     color: white;
+     background-color:rgb(99, 141, 20);
+     font-weight: bold;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   .btn1{
+     color: white;
+     border-radius: 10px;
+     width: 50px;
+     height: 40px;
+     position: absolute;
+     margin-top: 60px;
+     margin-left: 20px;
+     background-color:rgb(99, 141, 20);
+     font-weight: bold;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 25px;
+   }
+   .btn2{
+     color: white;
+     border-radius: 10px;
+     width: 50px;
+     height: 40px;
+     position: absolute;
+     margin-left: 20px;
+     margin-top: 0px;
+     background-color:rgb(99, 141, 20);
+     font-weight: bold;
+     font-size: 25px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   .btn3{
+     color: white;
+     border-radius: 10px;
+     width: 50px;
+     height: 40px;
+     position: absolute;
+     margin-top: -55px;
+     margin-left: 20px;
+     background-color:rgb(99, 141, 20);
+     font-weight: bold;
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   .btn4{
+     color: white;
+     border-radius: 10px;
+     width: 50px;
+     height: 40px;
+     position: absolute;
+     margin-top: 10px;
+     margin-left: 20px;
+     background-color:rgb(99, 141, 20);
+     font-weight: bold;
+     font-size: 20px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+   }
